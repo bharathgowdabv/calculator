@@ -1,0 +1,27 @@
+.title{
+    background-color: maroon;
+    text-align: center;
+    width: 240px;
+    color: gold;
+}
+input[type="button"]{
+    background-color: maroon;
+    color: gold;
+    border: solid black 2px;
+    width: 50px;
+    
+}
+input[type="text"]{
+    background-color: cadetblue;
+    border: solid black 2px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.rcb{
+    background-color: chocolate;
+    width: 240px;
+}
+input[type="button"]:hover{
+    background-color: firebrick;
+}
